@@ -10,6 +10,5 @@ namespace HanoiTower.Core
     public class Locator
     {
         public MoveModule MoveModule { get; set; } = new MoveModule();
-
     }
 }
